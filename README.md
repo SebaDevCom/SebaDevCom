@@ -1,72 +1,86 @@
 # 👾 Hi, I'm SebaDevCom
 
-🚀 Java Developer | Backend Enthusiast | Future Full Stack
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Java+Developer;Backend+Enthusiast;Building+Real+Projects;Future+Full+Stack+Developer" />
+</p>
 
 ---
 
 ## 🧠 About Me
 💻 Passionate developer focused on **Java backend development**  
-📦 Currently building a **Inventory Management System** using MongoDB  
-🌐 Designing and developing **REST APIs with Spark Java**  
-📱 Integrating backend services with mobile applications  
+📦 Building an **Inventory Management System** with MongoDB  
+🌐 Creating **REST APIs with Spark Java**  
+📱 Connecting backend with mobile applications  
 
-I enjoy solving problems, improving systems, and continuously learning new technologies.
+🚀 Always learning, improving, and building real-world solutions.
 
 ---
 
 ## ⚡ Tech Stack
 
 ### 🖥️ Backend
-- Java ☕
-- Spark Java 🌐
-- REST API Development 🔗
+<p>
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://img.shields.io/badge/Spark%20Java-FF4B4B?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
 ### 🗄️ Database
-- MongoDB 🍃
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
-### 🛠️ Tools & Others
-- Git & GitHub 🐙
-- JSON / API Integration 📡
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- Puedes pegar aquí tus widgets -->
-- 📈 GitHub Stats  
-- 🔝 Top Languages  
-- 🔥 Streak Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SebaDevCom&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🧠 Featured Projects
 
 ### 🚧 Inventory Management System
-- Built with **Java + MongoDB**
-- REST API for handling products, stock, and sales
-- Scalable backend structure
+- Java + MongoDB
+- REST API for stock and sales
+- Scalable backend architecture
 
 ### 📱 Mobile App Integration
-- Connected mobile app with backend services
-- Real-time data interaction
+- Backend connected to mobile app
+- Real-time data handling
 
-### 📊 Sales Reports System
-- Data tracking and reporting
-- Visualization-ready structure
-
----
-
-## 🔥 Current Focus
-🚀 Improving backend architecture  
-📚 Learning full stack development  
-⚡ Writing cleaner and more efficient code  
+### 📊 Sales Reports
+- Data tracking and analytics ready
 
 ---
 
-## 🟢 Contact & Goals
+## 🎯 Current Goals
+🚀 Improve backend architecture  
+📚 Learn full stack development  
+⚡ Write clean and efficient code  
 
-💬 Always open to learning and collaboration  
-🎯 Goal: Become a **Full Stack Developer**  
+---
+
+## 🟢 Contact
+
+💬 Open to collaboration and learning  
+🎯 Goal: Become a Full Stack Developer  
 
 ---
 
