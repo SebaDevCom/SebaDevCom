@@ -85,17 +85,6 @@ goal: Become a Full Stack Developer
 
 ---
 
-<!-- CURRENT GOALS -->
-## 🎯 Current Goals
-
-```
-[████████████░░░░░░░░] Backend Architecture   60%
-[██████░░░░░░░░░░░░░░] Full Stack Learning     30%
-[████████████████████] Passion for Coding     100%
-```
-
----
-
 <!-- FOOTER -->
 <div align="center">
 
