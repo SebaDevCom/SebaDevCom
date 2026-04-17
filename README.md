@@ -29,7 +29,7 @@
 <td valign="top" width="55%">
 
 ```yaml
-name: SebaDevCom
+name: Sebastián
 role: Java Backend Developer
 focus: REST APIs & Inventory Systems
 database: MongoDB
