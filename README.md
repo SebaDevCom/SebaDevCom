@@ -1,88 +1,134 @@
-# 👾 Hi, I'm SebaDevCom
+<!-- HEADER BANNER -->
+<div align="center">
 
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Java+Developer;Backend+Enthusiast;Building+Real+Projects;Future+Full+Stack+Developer" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=SebaDevCom&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Building%20Real%20Solutions&descAlignY=58&descSize=16&descColor=8b949e" />
+
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Java+Backend+Developer+%F0%9F%9A%80;Building+REST+APIs+with+Spark+Java+%E2%9A%A1;MongoDB+%26+Inventory+Systems+%F0%9F%93%A6;Future+Full+Stack+Developer+%F0%9F%8C%90" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- SOCIAL BADGES -->
+<a href="https://github.com/SebaDevCom">
+  <img src="https://img.shields.io/github/followers/SebaDevCom?label=Followers&style=flat-square&color=58a6ff&labelColor=0d1117&logo=github" />
+</a>
+<img src="https://img.shields.io/badge/Focus-Backend%20Development-58a6ff?style=flat-square&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=SebaDevCom&style=flat-square&color=58a6ff&label=Profile+Views" />
+
+</div>
 
 ---
 
-## 🧠 About Me
-💻 Passionate developer focused on **Java backend development**  
-📦 Building an **Inventory Management System** with MongoDB  
-🌐 Creating **REST APIs with Spark Java**  
-📱 Connecting backend with mobile applications  
+<!-- ABOUT ME -->
+## 🧑‍💻 About Me
 
-🚀 Always learning, improving, and building real-world solutions.
+<table>
+<tr>
+<td valign="top" width="55%">
+
+```yaml
+name: SebaDevCom
+role: Java Backend Developer
+focus: REST APIs & Inventory Systems
+database: MongoDB
+currently_building:
+  - Inventory Management System
+  - Mobile App Backend
+  - Sales Analytics Module
+always: Learning and shipping real projects
+goal: Become a Full Stack Developer
+```
+
+</td>
+<td valign="top" width="45%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SebaDevCom&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" />
+
+</td>
+</tr>
+</table>
 
 ---
 
+<!-- TECH STACK -->
 ## ⚡ Tech Stack
 
-### 🖥️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://img.shields.io/badge/Spark%20Java-FF4B4B?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
+<div align="center">
 
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
+**Backend**
 
-### 🛠️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
+<img src="https://skillicons.dev/icons?i=java&theme=dark" />
+<img src="https://img.shields.io/badge/Spark%20Java-E74C3C?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=58a6ff&labelColor=0d1117" />
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+
+**Tools & Version Control**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+
+</div>
 
 ---
 
+<!-- GITHUB STATS -->
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SebaDevCom&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebaDevCom&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SebaDevCom&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff9800&currStreakLabel=58a6ff" />
+</div>
 
 ---
 
-## 🔥 Streak Stats
+<!-- PROJECTS -->
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SebaDevCom&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
----
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SebaDevCom&repo=inventory-system&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
 
-## 🧠 Featured Projects
+</div>
 
-### 🚧 Inventory Management System
-- Java + MongoDB
-- REST API for stock and sales
-- Scalable backend architecture
+<br/>
 
-### 📱 Mobile App Integration
-- Backend connected to mobile app
-- Real-time data handling
-
-### 📊 Sales Reports
-- Data tracking and analytics ready
+| Project | Stack | Status | Description |
+|--------|-------|--------|-------------|
+| 📦 **Inventory System** | Java · MongoDB · Spark | 🔨 In Progress | REST API for stock & sales management |
+| 📱 **Mobile Backend** | Java · REST | 🔨 In Progress | Real-time backend for mobile integration |
+| 📊 **Sales Analytics** | Java · MongoDB | 📐 Planning | Data tracking & reporting module |
 
 ---
 
+<!-- CURRENT GOALS -->
 ## 🎯 Current Goals
-🚀 Improve backend architecture  
-📚 Learn full stack development  
-⚡ Write clean and efficient code  
+
+```
+[████████████░░░░░░░░] Backend Architecture   60%
+[██████░░░░░░░░░░░░░░] Full Stack Learning     30%
+[████████████████████] Passion for Coding     100%
+```
 
 ---
 
-## 🟢 Contact
+<!-- FOOTER -->
+<div align="center">
 
-💬 Open to collaboration and learning  
-🎯 Goal: Become a Full Stack Developer  
+**Let's build something together!**
 
----
+<a href="mailto:tu@email.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
 
-## ⚡ Fun Fact
-👾 I turn ideas into code and problems into solutions
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
+
+</div>
