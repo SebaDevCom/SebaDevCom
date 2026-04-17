@@ -85,27 +85,6 @@ goal: Become a Full Stack Developer
 
 ---
 
-<!-- PROJECTS -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SebaDevCom&repo=inventory-system&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-
-</div>
-
-<br/>
-
-| Project | Stack | Status | Description |
-|--------|-------|--------|-------------|
-| 📦 **Inventory System** | Java · MongoDB · Spark | 🔨 In Progress | REST API for stock & sales management |
-| 📱 **Mobile Backend** | Java · REST | 🔨 In Progress | Real-time backend for mobile integration |
-| 📊 **Sales Analytics** | Java · MongoDB | 📐 Planning | Data tracking & reporting module |
-
----
-
 <!-- CURRENT GOALS -->
 ## 🎯 Current Goals
 
