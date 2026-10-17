@@ -1,26 +1,4 @@
 <!-- HEADER -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=SebaDevCom&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=40" />
-
-  <a href="https://github.com/SebaDevCom">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Building+real+systems%2C+not+just+demos;Ship+first%2C+refine+always" />
-  </a>
-
-  <br/>
-
-  <a href="https://github.com/SebaDevCom">
-    <img src="https://img.shields.io/github/followers/SebaDevCom?label=Follow&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to-Collaborations-58a6ff?style=for-the-badge&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SebaDevCom&style=for-the-badge&color=58a6ff&label=Profile+Views" />
-</div>
-
-<br/>
-
----
-
 ## 🧑‍💻 About Me
 
 > Self-driven backend developer building practical, production-ready systems with Java.
