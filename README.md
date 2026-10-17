@@ -2,29 +2,9 @@
 
 <br/>
 
-<table align="center">
-<tr>
-<td>
-<pre>
-┌─ PROFILE ──────────────────────────────────────┐
-│                                                │
-│  name:     Sebastián                           │
-│  alias:    SebaDevCom                          │
-│  role:     Java Backend Developer              │
-│  stack:    Java · Spark Java · MongoDB · REST  │
-│  mindset:  Ship first, refine always           │
-│  goal:     Full Stack Developer                │
-│                                                │
-│  building:                                     │
-│    ▸ Inventory Management System (analytics)   │
-│    ▸ Mobile app backend w/ real-time tracking  │
-│    ▸ Modular REST API (Spark Java + MongoDB)   │
-│                                                │
-└────────────────────────────────────────────────┘
-</pre>
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="./assets/profile.svg" width="640" alt="Profile terminal" />
+</div>
 
 <br/>
 
@@ -64,11 +44,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="48" height="48" title="Raspberry Pi" alt="Raspberry Pi" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" title="HTML5" alt="HTML5" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-original.svg" width="48" height="48" title="HTMX" alt="HTMX" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="48" height="48" title="Kali Linux" alt="Kali Linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="48" height="48" title="Kali Linux" alt="Kali Linux" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" height="48" title="Linux" alt="Linux" />
 
-          
-          
 </div>
 
 <br/>
