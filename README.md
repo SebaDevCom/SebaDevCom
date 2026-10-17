@@ -34,8 +34,6 @@
 
 <br/>
 
----
-
 <!-- TECH STACK -->
 
 ## ⚙️ Tech Stack
