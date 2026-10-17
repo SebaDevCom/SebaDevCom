@@ -1,9 +1,6 @@
 <!-- HEADER -->
 ## 🧑‍💻 About Me
 
-> Self-driven backend developer building practical, production-ready systems with Java.
-> No tutorials-only — I ship real things and keep improving them.
-
 ```yaml
 name:     Sebastián
 alias:    SebaDevCom
