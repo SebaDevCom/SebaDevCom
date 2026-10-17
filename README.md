@@ -74,31 +74,6 @@ goal:     Full Stack Developer
 
 ---
 
-## 📌 Currently Building
-
-| Project | Stack | Status |
-|---|---|---|
-| 📦 Inventory Management System | Java · Spark · MongoDB | 🟢 Active |
-| 📱 Mobile app backend w/ real-time tracking | Java · REST | 🟢 Active |
-| 🧩 Modular REST API architecture | Spark Java · MongoDB | 🟢 Active |
-
-<br/>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SebaDevCom&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SebaDevCom&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-  <br/>
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebaDevCom&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff" />
-</div>
-
-<br/>
-
----
-
 <!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
