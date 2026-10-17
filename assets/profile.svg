@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img" aria-label="Terminal profile: Sebastián, SebaDevCom, Cybersecurity & Backend Developer">
+<title>Profile terminal</title>
+<style>
+text{font-family:'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace;font-size:16px}
+.k{fill:#58a6ff} .v{fill:#c9d1d9} .a{fill:#3fb950} .p{fill:#3fb950} .c{fill:#e6edf3} .t{fill:#8b949e;font-size:13px}
+@keyframes l0{0%,11.11%{opacity:0;transform:translateX(-6px)}11.91%,94%{opacity:1;transform:none}98%,100%{opacity:0}}
+.l0{animation:l0 18.0s infinite;opacity:0}
+@keyframes l1{0%,13.89%{opacity:0;transform:translateX(-6px)}14.69%,94%{opacity:1;transform:none}98%,100%{opacity:0}}
+.l1{animation:l1 18.0s infinite;opacity:0}
+@keyframes l2{0%,16.67%{opacity:0;transform:translateX(-6px)}17.47%,94%{opacity:1;transform:none}98%,100%{opacity:0}}
+.l2{animation:l2 18.0s infinite;opacity:0}
+@keyframes l3{0%,19.44%{opacity:0;transform:translateX(-6px)}20.24%,94%{opacity:1;transform:none}98%,100%{opacity:0}}
+.l3{animation:l3 18.0s infinite;opacity:0}
+@keyframes l4{0%,22.22%{opacity:0;transform:translateX(-6px)}23.02%,94%{opacity:1;transform:none}98%,100%{opacity:0}}
+.l4{animation:l4 18.0s infinite;opacity:0}
+@keyframes l5{0%,25.00%{opacity:0;transform:translateX(-6px)}25.80%,94%{opacity:1;transform:none}98%,100%{opacity:0}}
+.l5{animation:l5 18.0s infinite;opacity:0}
+@keyframes l7{0%,30.56%{opacity:0;transform:translateX(-6px)}31.36%,94%{opacity:1;transform:none}98%,100%{opacity:0}}
+.l7{animation:l7 18.0s infinite;opacity:0}
+@keyframes l8{0%,33.33%{opacity:0;transform:translateX(-6px)}34.13%,94%{opacity:1;transform:none}98%,100%{opacity:0}}
+.l8{animation:l8 18.0s infinite;opacity:0}
+@keyframes l9{0%,36.11%{opacity:0;transform:translateX(-6px)}36.91%,94%{opacity:1;transform:none}98%,100%{opacity:0}}
+.l9{animation:l9 18.0s infinite;opacity:0}
+@keyframes l10{0%,38.89%{opacity:0;transform:translateX(-6px)}39.69%,94%{opacity:1;transform:none}98%,100%{opacity:0}}
+.l10{animation:l10 18.0s infinite;opacity:0}
+@keyframes typ{0%{width:0}7.78%,100%{width:148px}}
+@keyframes cmdvis{0%,94%{opacity:1}98%,100%{opacity:0}}
+.cmd{animation:cmdvis 18.0s infinite}
+#cr{animation:typ 18.0s steps(15,end) infinite;width:0}
+@keyframes fp{0%,41.67%{opacity:0}42.47%,94%{opacity:1}98%,100%{opacity:0}}
+.fp{animation:fp 18.0s infinite;opacity:0}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}.cur{animation:blink 1s step-end infinite}
+@keyframes glow{0%,100%{stroke:#30363d}50%{stroke:#58a6ff}}.frame{animation:glow 6s ease-in-out infinite}
+</style>
+<defs><clipPath id="cp"><rect id="cr" x="60" y="74" height="26"/></clipPath></defs>
+<rect class="frame" x="1" y="1" width="718" height="418" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<path d="M1 11a10 10 0 0 1 10-10h698a10 10 0 0 1 10 10v26H1z" fill="#161b22"/>
+<circle cx="24" cy="19" r="6" fill="#ff5f56"/><circle cx="46" cy="19" r="6" fill="#ffbd2e"/><circle cx="68" cy="19" r="6" fill="#27c93f"/>
+<text x="360.0" y="24" text-anchor="middle" class="t">sebadevcom@github: ~</text>
+<g class="cmd"><text x="36" y="92" class="p">$</text><g clip-path="url(#cp)"><text x="60" y="92" class="c">cat profile.txt</text></g></g>
+<g class="l0"><text x="36" y="119" class="k">name:</text><text x="150" y="119" class="v">Sebastián</text></g>
+<g class="l1"><text x="36" y="146" class="k">alias:</text><text x="150" y="146" class="v">SebaDevCom</text></g>
+<g class="l2"><text x="36" y="173" class="k">role:</text><text x="150" y="173" class="v">Cybersecurity &amp; Backend Developer</text></g>
+<g class="l3"><text x="36" y="200" class="k">stack:</text><text x="150" y="200" class="v">Linux · Java · MongoDB · Networking</text></g>
+<g class="l4"><text x="36" y="227" class="k">mindset:</text><text x="150" y="227" class="v">Security first, then ship</text></g>
+<g class="l5"><text x="36" y="254" class="k">goal:</text><text x="150" y="254" class="v">Specialize in Cybersecurity</text></g>
+<g class="l7"><text x="36" y="308" class="k">building:</text></g>
+<g class="l8"><text x="54" y="335" class="a">▸</text><text x="78" y="335" class="v">Hardening &amp; securing backend systems</text></g>
+<g class="l9"><text x="54" y="362" class="a">▸</text><text x="78" y="362" class="v">Database design &amp; management</text></g>
+<g class="l10"><text x="54" y="389" class="a">▸</text><text x="78" y="389" class="v">Linux environments &amp; network fundamentals</text></g>
+<g class="fp"><text x="36" y="416" class="p">$</text><rect class="cur" x="58" y="401" width="10" height="19" fill="#c9d1d9"/></g>
+</svg>
