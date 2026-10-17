@@ -1,4 +1,4 @@
-<h2 align="center">🧑‍💻 About Me</h2>
+<h3 align="center">🧑‍💻 About Me</h3>
 
 <br/>
 
@@ -28,7 +28,7 @@
 
 <br/>
 
-<h2 align="center">⚙️ Languages &amp; Tools</h2>
+<h3 align="center">⚙️ Languages &amp; Tools</h3>
 
 <div align="center">
 
