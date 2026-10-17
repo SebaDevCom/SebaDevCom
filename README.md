@@ -1,6 +1,5 @@
 <h2 align="center">🧑‍💻 About Me</h2>
 <br/>
-
 <table align="center">
 <tr>
 <td>
