@@ -5,7 +5,7 @@
 ## 🧑‍💻 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=8B949E&center=true&vCenter=true&width=520&lines=Ship+first%2C+refine+always.;Java+Backend+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=8B949E&center=true&vCenter=true&width=520&lines=Ship+first%2C+refine+always.;Java+Backend+Developer;Building+REST+APIs+with+Spark+Java;Next+stop%3A+Full+Stack" />
 </div>
 
 <br/>
@@ -13,7 +13,7 @@
 <div align="center">
 
 ```text
-┌─ 🧑‍💻 PROFILE ─────────────────────────────────┐
+┌─ PROFILE ──────────────────────────────────────┐
 │                                                │
 │  name:     Sebastián                           │
 │  alias:    SebaDevCom                          │
