@@ -2,7 +2,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+<h2 align="center">🧑‍💻 About Me</h2>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=8B949E&center=true&vCenter=true&width=520&lines=Ship+first%2C+refine+always.;Java+Backend+Developer;Building+REST+APIs+with+Spark+Java;Next+stop%3A+Full+Stack" />
@@ -10,9 +10,10 @@
 
 <br/>
 
-<div align="center">
-
-```text
+<table align="center">
+<tr>
+<td>
+<pre>
 ┌─ PROFILE ──────────────────────────────────────┐
 │                                                │
 │  name:     Sebastián                           │
@@ -28,15 +29,16 @@
 │    ▸ Modular REST API (Spark Java + MongoDB)   │
 │                                                │
 └────────────────────────────────────────────────┘
-```
-
-</div>
+</pre>
+</td>
+</tr>
+</table>
 
 <br/>
 
 <!-- TECH STACK -->
 
-## ⚙️ Tech Stack
+<h2 align="center">⚙️ Tech Stack</h2>
 
 <div align="center">
 
