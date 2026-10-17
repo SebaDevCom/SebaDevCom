@@ -26,8 +26,6 @@
 
 <br/>
 
-<!-- TECH STACK -->
-
 <h2 align="center">⚙️ Lenguajes and tools</h2>
 
 <div align="center">
