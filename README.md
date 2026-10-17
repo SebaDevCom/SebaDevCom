@@ -1,6 +1,5 @@
 <!-- HEADER -->
 ## 🧑‍💻 About Me
-
 ```yaml
 name:     Sebastián
 alias:    SebaDevCom
