@@ -50,3 +50,19 @@
 </div>
 
 <br/>
+
+<h3 align="center">🏅 Certifications &amp; Badges</h3>
+
+<div align="center">
+
+<br/>
+
+<a href="https://www.credly.com/badges/212f6d03-8c8c-4eaf-9301-d49c91cad0ab/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="110" height="110" title="I2CS" alt="I2CS" /></a>
+
+<br/><br/>
+
+<a href="https://www.credly.com/users/sebastian-garcia-hernandez" target="_blank"><img src="https://img.shields.io/badge/Credly-Ver%20todas%20mis%20insignias-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Perfil de Credly" /></a>
+
+</div>
+
+<br/>
