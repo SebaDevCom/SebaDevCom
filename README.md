@@ -108,43 +108,11 @@
   <sub>React · Electron · React Native · Expo · Node.js · Express · PostgreSQL</sub>
 </p>
 
-<h4 align="center">💬 WhatsApp &amp; Telegram Automation</h4>
-
-<p align="center">
-  Order processing with persistent history, duplicate prevention and Telegram controls,<br/>
-  plus WhatsApp notifications and tools for scheduling status updates.<br/>
-  <sub>Node.js · Express · Baileys · SQLite · Telegram Bot API</sub>
-</p>
-
 <h4 align="center">🚌 VictoriaTransit</h4>
 
 <p align="center">
   Companion apps for drivers and passengers, with location sharing and map views.<br/>
   <sub>TypeScript · React Native · Expo · Firebase · Geolocation</sub>
-</p>
-
-<h4 align="center">🧠 Educational Compiler</h4>
-
-<p align="center">
-  A compiler with a graphical interface for exploring lexical, syntactic and semantic analysis,<br/>
-  intermediate code, optimization and execution of generated programs.<br/>
-  <sub>Python · Tkinter · Compiler Design · Automated Tests</sub>
-</p>
-
-<h4 align="center">📱 SAMI — Android App</h4>
-
-<p align="center">
-  An Android app combining a web interface with native text-to-speech,<br/>
-  with work on startup time and responsiveness.<br/>
-  <sub>Kotlin · Jetpack Compose · WebView · JavaScript · Android TextToSpeech</sub>
-</p>
-
-<h4 align="center">🐧 ReyHome — Linux Services &amp; Photo Gallery</h4>
-
-<p align="center">
-  Linux service maintenance, access controls and photo gallery improvements,<br/>
-  including HEIC previews, caching and development of a Telegram monitoring bot.<br/>
-  <sub>Debian · Python · Flask · Nginx · systemd · Tailscale · Telegram</sub>
 </p>
 
 <h4 align="center">🚗 Yancuic T-Box — Concept &amp; Architecture</h4>
