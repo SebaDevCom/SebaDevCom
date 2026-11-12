@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  I build web, desktop and mobile applications, integrate APIs, and automate everyday workflows.<br/>
-  My projects span point-of-sale systems, messaging bots, transit apps and an educational compiler.
+  Software developer with a focus on backend engineering, system design, API development, and database management.<br/>
+  Passionate about building efficient, scalable, and maintainable software through clean architecture and modern development practices.
 </p>
 
 <p align="center">
